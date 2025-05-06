@@ -31,18 +31,27 @@ You can create a Date object in several ways:
 
 
 // Current date and time
+
 let now = new Date();
 
+
 // Using date string
+
 let date1 = new Date("2024-12-25");
 
+
 // Using individual components: year, month (0-based), day, hours, minutes, seconds
+
 let date2 = new Date(2024, 11, 25, 10, 30, 0);
 
+
 // Using milliseconds since Unix Epoch
+
 let date3 = new Date(1672531200000);
 
+
 console.log(date1.toString());
+
 
 
 ### ⏱️ Why Dates Are Stored in Milliseconds?
@@ -60,6 +69,7 @@ let now = new Date();
 console.log(now.getTime()); // milliseconds since Jan 1, 1970
 
 
+
 ### 📊 JavaScript Date get and set Methods
 
 | Purpose             | `get` Method           | `set` Method             | Description                                         |
@@ -74,6 +84,8 @@ console.log(now.getTime()); // milliseconds since Jan 1, 1970
 | Milliseconds        | `getMilliseconds()`    | `setMilliseconds(ms)`    | Gets/Sets the milliseconds (0–999)                  |
 | Time (Unix epoch)   | `getTime()`            | `setTime(ms)`            | Gets/Sets the time in ms since Jan 1, 1970          |
 | UTC Full Year       | `getUTCFullYear()`     | `setUTCFullYear(year)`   | Gets/Sets the year in UTC                           |
+
+
 
 
 
