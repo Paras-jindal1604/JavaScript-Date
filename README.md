@@ -101,3 +101,11 @@ Target Date: July 14, 2028 (Los Angeles Olympics Opening Ceremony)
 The Date object in JavaScript is powerful and essential for building real-time applications like clocks, calendars, and countdowns.
 With a strong understanding of date formats, milliseconds, and timer logic, you can bring time-based interactivity into your web projects.
 
+
+### Contact
+
+
+Thanks for checking out this project! If you found it useful, consider giving it a ⭐️.
+
+Created by Paras Jindal(https://github.com/Paras-jindal1604) – feel free to reach out!
+
