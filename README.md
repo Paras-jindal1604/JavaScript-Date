@@ -107,5 +107,5 @@ With a strong understanding of date formats, milliseconds, and timer logic, you 
 
 Thanks for checking out this project! If you found it useful, consider giving it a ⭐️.
 
-Created by Paras Jindal (https://github.com/Paras-jindal1604) – feel free to reach out!
+Created by [Paras Jindal](https://github.com/Paras-jindal1604) – feel free to reach out!
 
